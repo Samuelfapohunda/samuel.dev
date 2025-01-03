@@ -142,17 +142,13 @@ const Navbar = () => {
                 <Separator className="mt-3" />
 
                 <li className="hover:text-[#5A83ED] transition-colors ease-in-out underline block">
-                  <Link href={"https://x.com/ghostcod3r_"}>Twitter </Link>
-                </li>
-
-                <li className="hover:text-[#5A83ED] transition-colors ease-in-out underline block">
-                  <Link href={"https://github.com/chrisegbaaaibon"}>
+                  <Link href={"https://github.com/Samuelfapohunda"}>
                     Github{" "}
                   </Link>
                 </li>
 
                 <li className="hover:text-[#5A83ED] transition-colors ease-in-out underline block">
-                  <Link href={"https://www.linkedin.com/in/christopher-egbaaibon-02701120a"}>
+                  <Link href={"https://www.linkedin.com/in/samuelfapohunda/"}>
                     Linkedin{" "}
                   </Link>
                 </li>

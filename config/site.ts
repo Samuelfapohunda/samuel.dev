@@ -1,9 +1,9 @@
 export const siteConfig = {
   domain: "",
-  name: "Christopher Egbaaibon - Software / DevOps Engineer",
-  headline: "Christipher Egbaaibon  | Software / DevOps Engineer | Mathematics",
-  description: "About Christopher Egbaaibon - Math, Software /  DevOps Engineer",
+  name: "Samuel Fapohunda - Software Engineer",
+  headline: "Samuel Fapohunda - Software Engineer",
+  description: "About Samuel Fapohunda - Software Engineer",
   keywords:
-    "Christopher, Christopher Egbaaibon, software engineer",
+    "Samuel, Samuel Fapohunda, software engineer",
   image: "",
 };

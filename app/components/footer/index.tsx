@@ -39,12 +39,6 @@ const Footer = () => {
           Linkedin <ArrowUpRight className="h-5 w-5" />
         </Link>
 
-        {/* <Link
-          href={"https://twitter.com/ghostcod3r_"}
-          className="underline flex items-end"
-        >
-          Twitter <ArrowUpRight className="h-5 w-5" />
-        </Link> */}
       </div>
     </div>
   );

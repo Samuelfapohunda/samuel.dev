@@ -32,7 +32,7 @@ const HallOfFame = () => {
     <div className="my-8 content-section">
       <Seo
         title="Hall Of Fame"
-        description="Hall Of Fame Christopher Egbaaibon - Math, Software | DevOps Engineer"
+        description="Hall Of Fame Samuel Fapohunda - Software Engineer"
       />
       <h1
         className={cn(

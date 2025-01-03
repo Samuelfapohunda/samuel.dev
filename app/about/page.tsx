@@ -63,7 +63,7 @@ const About = () => {
 
           <div className="lg:my-0 my-3">
             <p>
-              I am a Software Engineer with over 3 years of experience and an
+              I am a Software Engineer with over 3 years of experience and a
               student of the{" "}
               <Link
                 href="https://unilag.edu.ng"
@@ -91,26 +91,6 @@ const About = () => {
             </p>
 
             <br />
-
-            {/* <p>
-              I am passionate about open source which is why I make most of my side
-              projects publicly available. My goal is to help others learn from
-              and use the tools I create. I co-built {" "} 
-              <Link
-                href="https://dolphjs.com"
-                className="underline text-blue-500"
-              >
-                DolphJS
-              </Link>{" "},
-              A Javascript / Typescript framework for building backend applications. You can find all my projects on
-              GitHub.{" "}
-              <Link
-                href="https://github.com/chrisegbaaaibon"
-                className="underline text-blue-500"
-              >
-                Github - @chrisegbaaaibon
-              </Link>{" "}
-            </p> */}
 
             <Separator className="my-5" />
 

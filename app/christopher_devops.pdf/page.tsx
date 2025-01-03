@@ -7,7 +7,7 @@ const PdfViewer = () => {
     <div>
       <div className="container mx-auto mt-8">
         <iframe
-          src="/christopher_devops.docx.pdf"
+          src="/Fapohunda_Samuel_copy.pdf"
           width="100%"
           height="800px"
           className="border-2 border-gray-300"
