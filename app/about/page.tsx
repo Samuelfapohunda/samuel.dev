@@ -54,7 +54,7 @@ const About = () => {
       <div className="flex items-center justify-center my-4">
         <div className="lg:flex items-start justify-center lg:gap-6 lg:w-[900px] my-5">
           <Image
-            src={"/samuel.jpeg"}
+            src={"/Samuel.jpeg"}
             alt="Samuel Fapohunda"
             width={400}
             height={600}
